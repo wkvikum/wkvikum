@@ -1,5 +1,5 @@
 - 👋 Hi, I’m WK Wikum
-- 👀 I’m interested in devoloping software
+- 👀 I’m interested in software devoloping
 - 🌱 I’m currently learning higher national diploma in software engineering at NIBM
 - 💞️ I’m looking to join intern
 - 📫 How to reach me ...
